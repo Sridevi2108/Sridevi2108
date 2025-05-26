@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&weight=500&duration=5000&pause=700&color=02F769&background=15151500&center=true&vCenter=true&random=false&width=500&lines=Hello!+I'm+Sridevi+R;Aspiring+Software+Engineer;Passionate+Learner+%26+Tech+Explorer" alt="Typing SVG"/>
   </a>
   <br><br>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300px" alt="girl coding gif" />
 </div>
 
 
