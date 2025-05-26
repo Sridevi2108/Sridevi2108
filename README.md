@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm SRIDEVI</h1>
+<br>
 <h3 align="center">I am Sridevi, currently pursuing a Master of Computer Application at CIT, Coimbatore.Being a Passionate student, who loves to learn & crack new technologies and can work across with different domains.</h3>
 
 
