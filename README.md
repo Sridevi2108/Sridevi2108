@@ -14,13 +14,6 @@
 
 ---
 
-### 💡 Featured Project
-
-🔹 **Auracare** – A multilingual mental health chatbot that provides AI-driven support using LLaMA, sentiment analysis, and personalized wellness tips. Built with React, Flask, and MongoDB.  
-> 🌐 *Languages Supported:* English, Tamil, Tanglish  
-> 🔧 *Tech Stack:* Flask, React, MongoDB, LLaMA, TextBlob
-
----
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
