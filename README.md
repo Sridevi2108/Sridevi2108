@@ -6,26 +6,18 @@
   <br><br>
 </div>
 
-
-
-<br>
-
 <h3 align="center">🎓 I’m Sridevi, a Master's student in Computer Applications at CIT, Coimbatore. Passionate about tech, I love exploring emerging technologies and enjoy working across diverse domains.</h3>
 
 ---
-
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sridevi2108" alt="sridevi2108 trophies" />
-  </a> 
-</p>
 
 ### 🚀 Currently
 
 - 🔭 Working on **Auracare - A mental health chatbot**
 - 🌱 Learning **React, Django, Flask, Docker**
 - 📫 Reach me at: **sridevi21082003@gmail.com**
+- 💻 Completed projects: **Auracare, Serenova, YumShare**
+- 📝 Portfolio: [sridevi2108.github.io/Sridevi_portfolio](https://sridevi2108.github.io/Sridevi_portfolio/)
+- 🏆 LeetCode: [https://leetcode.com/u/SRI21dev2003/](https://leetcode.com/u/SRI21dev2003/)
 
 ---
 
